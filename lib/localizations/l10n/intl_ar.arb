@@ -1,0 +1,55 @@
+{
+  "@@last_modified": "2020-02-13T12:33:08.592025",
+  "tabTitleInbox": "صندوق الوارد",
+  "@tabTitleInbox": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabTitleOrders": "أوامر",
+  "@tabTitleOrders": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabTitleBrowse": "تصفح",
+  "@tabTitleBrowse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabTitleFavorites": "المفضلة",
+  "@tabTitleFavorites": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabTitleMore": "أكثر",
+  "@tabTitleMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInToAccountTitle": "Sign in to your Ebda account",
+  "@signInToAccountTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInToAccountSubtitle": "To order products, contact suppliers and more",
+  "@signInToAccountSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonTitleSeeAll": "See all ({count})",
+  "@buttonTitleSeeAll": {
+    "type": "text",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "searchPlaceholderProducts": "Search products",
+  "@searchPlaceholderProducts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchPlaceholderFavorites": "Search favorites",
+  "@searchPlaceholderFavorites": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

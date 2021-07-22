@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856460667372",
+    "firebase_url": "https://ebda-test.firebaseio.com",
+    "project_id": "ebda-test",
+    "storage_bucket": "ebda-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856460667372:android:55a6af93bd2e81e33638c9",
+        "android_client_info": {
+          "package_name": "com.ebda.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856460667372-6ag3dmkcsb6p7kms58p72o19gqp7qibp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6c-BwyPyMnUy2XLzUQjQn9cvKL7GTKDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856460667372-6ag3dmkcsb6p7kms58p72o19gqp7qibp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
